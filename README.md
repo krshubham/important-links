@@ -9,3 +9,5 @@ Some important links throughout college!
 [Index of largest number STL](http://stackoverflow.com/questions/2953491/finding-the-position-of-the-max-element)
 
 [Algorithm for infix to postfix- codechef OPN](http://csis.pace.edu/~wolf/CS122/infix-postfix.htm)
+
+[Stack Smashing Error in C++](http://stackoverflow.com/questions/1345670/stack-smashing-detected)
