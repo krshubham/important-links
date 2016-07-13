@@ -10,7 +10,11 @@ Some important links throughout college!
 
 [Algorithm for infix to postfix- codechef OPN](http://csis.pace.edu/~wolf/CS122/infix-postfix.htm)
 
+#### For some common programming errors in gcc or g++
+
 [Stack Smashing Error in C++](http://stackoverflow.com/questions/1345670/stack-smashing-detected)
+
+#### For some common life hacks
 
 [Ignoring the node_modules in git](http://stackoverflow.com/questions/22924633/gitignore-is-not-ignoring-directories)
 
