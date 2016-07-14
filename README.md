@@ -22,3 +22,8 @@ Some important links throughout college!
 
 [Mongodb node driver documentation](http://mongodb.github.io/node-mongodb-native/2.1/tutorials/crud/)
 
+#### For nodejs:
+
+[Node.js error library](https://nodejs.org/api/errors.html)
+
+
