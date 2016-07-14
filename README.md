@@ -26,4 +26,5 @@ Some important links throughout college!
 
 [Node.js error library](https://nodejs.org/api/errors.html)
 
-
+#### Markdown cheatsheet:
+[Markdown syntax cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
