@@ -26,5 +26,6 @@ Some important links throughout college!
 
 [Node.js error library](https://nodejs.org/api/errors.html)
 
+[Node.js Promises](https://www.toptal.com/javascript/javascript-promises)
 #### Markdown cheatsheet:
 [Markdown syntax cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
