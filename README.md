@@ -22,6 +22,7 @@ Some important links throughout college!
 
 [Mongodb node driver documentation](http://mongodb.github.io/node-mongodb-native/2.1/tutorials/crud/)
 
+[Promise <pending> mongodb log](http://stackoverflow.com/questions/35604524/promise-pending-error-in-mongodb-and-nodejs)
 #### For nodejs:
 
 [Node.js error library](https://nodejs.org/api/errors.html)
