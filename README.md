@@ -18,6 +18,7 @@ Some important links throughout college!
 
 [Ignoring the node_modules in git](http://stackoverflow.com/questions/22924633/gitignore-is-not-ignoring-directories)
 
+[Different CSS for different partials](http://stackoverflow.com/questions/24308368/how-to-manage-assets-css-in-mean-js-node-js)
 #### For mongodb Nodejs Driver
 
 [Mongodb node driver documentation](http://mongodb.github.io/node-mongodb-native/2.1/tutorials/crud/)
