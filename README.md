@@ -35,5 +35,7 @@ Some important links throughout college!
 
 [Google Recaptcha for nodejs](https://www.npmjs.com/package/recaptcha)
 
+[Objects in Javascript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/create)
+
 #### Markdown cheatsheet:
 [Markdown syntax cheatsheet](http://assemble.io/docs/Cheatsheet-Markdown.html)
