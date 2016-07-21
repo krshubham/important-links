@@ -12,6 +12,9 @@ Some important links throughout college!
 
 [Algorithm for infix to postfix- codechef OPN](http://csis.pace.edu/~wolf/CS122/infix-postfix.htm)
 
+#### MEAN stack hacks:
+[Handlebars helpers](http://handlebarsjs.com/builtin_helpers.html)
+
 #### For some common programming errors in gcc or g++
 
 [Stack Smashing Error in C++](http://stackoverflow.com/questions/1345670/stack-smashing-detected)
