@@ -1,4 +1,4 @@
-# important-links
+#important-links
 ___
 
 Some important links throughout college!
@@ -14,6 +14,9 @@ Some important links throughout college!
 
 #### MEAN stack hacks:
 [Handlebars helpers](http://handlebarsjs.com/builtin_helpers.html)
+
+#### Javscript stuff:
+[Object prototypes and OOP in Js](http://www.w3schools.com/js/js_object_prototypes.asp)
 
 #### For some common programming errors in gcc or g++
 
