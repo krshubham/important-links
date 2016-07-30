@@ -22,6 +22,8 @@ Some important links throughout college!
 #### Javscript stuff:
 [Object prototypes and OOP in Js](http://www.w3schools.com/js/js_object_prototypes.asp)
 
+[Materialize css side Nav not working](http://stackoverflow.com/questions/32439042/materialize-css-side-nav-not-working)
+
 #### For some common programming errors in gcc or g++
 
 [Stack Smashing Error in C++](http://stackoverflow.com/questions/1345670/stack-smashing-detected)
