@@ -43,6 +43,8 @@ Some important links throughout college!
 [Promise <pending> mongodb log](http://stackoverflow.com/questions/35604524/promise-pending-error-in-mongodb-and-nodejs)
 #### For nodejs:
 
+[Dockerizing a node.js app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
 [Node.js error library](https://nodejs.org/api/errors.html)
 
 [Node.js Promises](https://www.toptal.com/javascript/javascript-promises)
