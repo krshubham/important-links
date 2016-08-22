@@ -3,6 +3,9 @@ ___
 
 Some important links throughout college!
 
+#### Hexo.io
+[Getting started and deploying hexo](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04)
+
 #### Running Node Js app on the server:
 [Best practices to follow](http://stackoverflow.com/questions/16573668/best-practices-when-running-node-js-with-port-80-ubuntu-linode)
 
