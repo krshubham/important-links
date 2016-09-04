@@ -11,6 +11,9 @@ Some important links throughout college!
 
 [Mongo DB connection pooling like a lamp App](https://www.terlici.com/2015/04/03/mongodb-node-express.html)
 
+#### MEAN stack User Authentication
+[Site-point link for auth tutorial - 2016](https://www.sitepoint.com/user-authentication-mean-stack/)
+
 #### For competitive programming:
 [Factorial of a large number](http://www.geeksforgeeks.org/factorial-large-number/)
 
