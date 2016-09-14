@@ -3,6 +3,9 @@ ___
 
 Some important links throughout college!
 
+#### To recover deleted files (ntfsundelete):
+[NTFS undelete for linux](http://www.howtogeek.com/howto/13706/recover-deleted-files-on-an-ntfs-hard-drive-from-a-ubuntu-live-cd/)
+
 #### Hexo.io
 [Getting started and deploying hexo](https://www.digitalocean.com/community/tutorials/how-to-create-a-blog-with-hexo-on-ubuntu-14-04)
 
